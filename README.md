@@ -2,7 +2,7 @@
 EVELAB ARDUINO README
 **********************************
 
-This is an Arduino library that allows you to control EveLab (http://eveone.org).
+This is an Arduino library that allows you to control the EveLab (http://eveone.org).
 
 It can be used to receive commands remotely from the browser, process those commands, and send the response over websockets.
  When receiving commands remotely the socket can either be used raw or as a websocket from a browser.
